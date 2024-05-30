@@ -1,4 +1,4 @@
-# ozgurgungoorr-C-Sharp-Market-Otomasyon
+# C-Sharp-Market-Otomasyon
 C-Sharp-Market-Otomasyon
 
 ![Ekran görüntüsü 2024-05-31 020025](https://github.com/ozgurgungoorr/ozgurgungoorr-C-Sharp-Market-Otomasyon/assets/171092519/e47bb914-aa60-483f-b957-99b1205d8b36)
